@@ -1,13 +1,15 @@
+============
 django-filer
 ============
+
 
 A file management application for django that makes handling of files and images a breeze.
 
 Dependencies
 ------------
 
-django-cms >= 2.1
-easy-thumbnails >= 1.0-alpha-13
+ * django-cms >= 2.1
+ * easy-thumbnails >= 1.0-alpha-13
 
 Installation
 ------------
